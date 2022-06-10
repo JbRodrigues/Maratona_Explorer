@@ -29,7 +29,8 @@ const respostaZero = [
     "Eu tenho cara de Raven Baxter?",
     "Como eu vou saber? você não perguntou!",
     "Esqueceu de perguntar!",
-    "Tenho cara de que preciso disso? Meu marido tem dois empregos!"
+    "Tenho cara de que preciso disso? Meu marido tem dois empregos!",
+    "Error 404"
 ];
 
 
